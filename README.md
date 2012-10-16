@@ -18,7 +18,7 @@ disable autosave:
 
     %autosave 0
 
-trigger save from Python:
+trigger single save from Python (just like clicking the save button):
 
     %savenb
 
